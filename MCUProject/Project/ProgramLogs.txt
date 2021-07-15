@@ -1,0 +1,37 @@
+[2013-09-29 12:42:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\hc_sr04_stm32\sr04_stm32\MDK_Project\Out\Project.hex
+[2013-09-29 12:46:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\hc_sr04_stm32\sr04_stm32\MDK_Project\Out\Project.hex
+[2013-09-29 12:49:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\hc_sr04_stm32\sr04_stm32\MDK_Project\Out\Project.hex
+[2013-09-29 13:04:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\hc_sr04_stm32\sr04_stm32\MDK_Project\Out\Project.hex
+[2013-09-29 13:26:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\hc_sr04_stm32\sr04_stm32\MDK_Project\Out\Project.hex
+[2013-09-29 13:40:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\hc_sr04_stm32\sr04_stm32\MDK_Project\Out\Project.hex
+[2013-10-01 08:30:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\sr04_stm32\MDK_Project\Out\Project.hex
+[2013-10-01 08:31:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\sr04_stm32\MDK_Project\Out\Project.hex
+[2013-10-01 08:31:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\sr04_stm32\MDK_Project\Out\Project.hex
+[2013-10-01 08:36:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\sr04_stm32(int_recv)\MDK_Project\Out\Project.hex
+[2013-10-01 08:40:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\sr04_stm32(int_recv)\MDK_Project\Out\Project.hex
+[2013-10-01 08:44:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\sr04_stm32(int_recv)\MDK_Project\Out\Project.hex
+[2013-10-01 14:26:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\sr04_stm32\MDK_Project\Out\Project.hex
+[2013-10-01 14:32:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\sr04_stm32\MDK_Project\Out\Project.hex
+[2013-10-01 14:33:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\sr04_stm32\MDK_Project\Out\Project.hex
+[2013-10-01 14:35:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\sr04_stm32\MDK_Project\Out\Project.hex
+[2013-10-01 14:36:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\sr04_stm32(int_recv)\MDK_Project\Out\Project.hex
+[2013-10-01 14:45:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\sr04_stm32(int_recv)\MDK_Project\Out\Project.hex
+[2013-10-01 14:46:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\sr04_stm32\MDK_Project\Out\Project.hex
+[2013-10-01 20:36:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\sr04_stm32\MDK_Project\Out\Project.hex
+[2013-10-01 20:39:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\sr04_stm32\MDK_Project\Out\Project.hex
+[2013-10-01 20:40:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\sr04_stm32\MDK_Project\Out\Project.hex
+[2013-10-01 20:44:Program Success:543534313034CA7532333937 C:\Documents and Settings\Administrator\桌面\sr04_stm32\MDK_Project\Out\Project.hex
+[2013-10-01 20:47:日志记录不属免费功能,请注册支持作者改进软件
+[2013-10-04 21:51:Program Success:543534313034CA7532333937 E:\GD32_Disk\GD32_ucos\Project\Out\Project.hex
+[2013-10-04 21:51:Program Success:543534313034CA7532333937 E:\GD32_Disk\GD32_ucos\Project\Out\Project.hex
+[2013-10-04 21:56:Program Success:543534313034CA7532333937 E:\GD32_Disk\GD32_ucos\Project\Out\Project.hex
+[2013-10-04 21:56:Program Success:543534313034CA7532333937 E:\GD32_Disk\GD32_ucos\Project\Out\Project.hex
+[2013-10-04 21:59:Program Success:543534313034CA7532333937 E:\GD32_Disk\GD32_ucos\Project\Out\Project.hex
+[2013-10-05 18:03:Program Success:543534313034CA7532333937 E:\GD32_Disk\GD32_ucos\Project\Out\Project.hex
+[2013-10-05 18:06:Program Success:543534313034CA7532333937 E:\GD32_Disk\GD32_ucos\Project\Out\Project.hex
+[2013-10-05 18:08:Program Success:543534313034CA7532333937 E:\GD32_Disk\GD32_ucos\Project\Out\Project.hex
+[2013-10-05 18:09:Program Success:543534313034CA7532333937 E:\GD32_Disk\GD32_ucos\Project\Out\Project.hex
+[2013-10-05 18:10:Program Success:543534313034CA7532333937 E:\GD32_Disk\GD32_ucos\Project\Out\Project.hex
+[2013-10-05 18:43:Program Success:543534313034CA7532333937 E:\GD32_Disk\GD32_ucos\Project\Out\Project.hex
+[2013-10-05 18:43:Program Success:543534313034CA7532333937 E:\GD32_Disk\GD32_ucos\Project\Out\Project.hex
+[2013-10-05 18:44:Program Success:543534313034CA7532333937 E:\GD32_Disk\GD32_ucos\Project\Out\Project.hex

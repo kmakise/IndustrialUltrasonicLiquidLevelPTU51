@@ -1,0 +1,12 @@
+[INIT]
+PICFIX=1
+VARCount=64
+Version=-1
+SCREENDSIZE=480X320
+SPADDRESS=5000
+[IMG]
+0=0主界面.jpg
+1=1内部-1.jpg
+2=2内部-2.jpg
+20=20输入.png
+10=10选单-1.jpg
